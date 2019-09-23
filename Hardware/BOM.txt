@@ -1,0 +1,29 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value             Package          Library             Position (inch)       Orientation
+
+C1       10u               0603-CAP         SparkFun-Capacitors (0.04 0.409)          MR270
+C2       .47u              0603-CAP         SparkFun-Capacitors (0.04 0.566)          MR270
+C3       0.47u             0603-CAP         SparkFun-Passives   (0.516 0.478)         R90
+C4       DNP               0603-CAP         SparkFun-Passives   (0.444 0.476)         R90
+C6       .47u              0603-CAP         SparkFun-Capacitors (0.212 0.24)          R0
+C44      0.47uF            C0603            imix                (0.088 0.15)          R180
+CFF      22p               0603-CAP         SparkFun-Capacitors (0.227 0.264)         MR180
+D1       MBR0530           SOD-123_MINI-SMA diode               (0.189 0.602)         MR180
+D2       1N759A            DIODE-ZENER      imix                (0.46 0.561)          R225
+D3       1N759A            DIODE-ZENER      imix                (0.444 0.198)         R135
+D5       MBR0530           SOD-123          imix                (0.605 0.498)         R270
+J1                         1X06             SparkFun-Connectors (0.579 0.022)         R180
+L1       10u               0805             SparkFun-Passives   (0.227 0.526)         MR0
+NOISE1   LM358             SO8              analog-devices      (0.527 0.381)         MR180
+R1       2.2M              0603-RES         SparkFun-Resistors  (0.223 0.194)         MR0
+R2       160k              0603-RES         SparkFun-Resistors  (0.231 0.331)         MR180
+R4       10k               0603-RES         SparkFun-Resistors  (0.606 0.21)          R270
+R5       10.1k             0603-RES         SparkFun-Resistors  (0.36 0.572)          MR270
+R6       10.1k             0603-RES         SparkFun-Resistors  (0.436 0.36)          R180
+SJ1      SOLDERJUMPERTRACE SJ_2S-TRACE      SparkFun-Retired    (0.096 0.2)           MR90
+SJ2      SOLDERJUMPERTRACE SJ_2S-TRACE      SparkFun-Retired    (0.445 0.128)         MR90
+U$1      TPS61040          SOT23-5          SparkFun-PowerIC    (0.23 0.422)          MR270
+U3       TLV3202           SO8              imix                (0.161 0.453)         R90
